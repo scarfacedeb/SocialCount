@@ -258,5 +258,6 @@ footer {
   width: 500px;
 }
   .socialcount > li {
+    font-family: Arial, sans-serif;
     margin: 0 15px 15px 0;
   }
