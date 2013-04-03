@@ -253,3 +253,10 @@ footer {
     color:#444;
   }
 }
+
+.socialcount {
+  width: 500px;
+}
+  .socialcount > li {
+    margin: 0 15px 15px 0;
+  }
